@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm LAHIRU UDAYAKUMARA</h1>
+<h1 align="center">Hi 👋, I'm Lahiru Udayakumara</h1>
 
 ## About me
 
