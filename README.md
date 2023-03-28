@@ -12,3 +12,6 @@
 - JavaScript
 - Node.js
 - HTML/CSS
+- C/C++
+- SQL
+- PHP
