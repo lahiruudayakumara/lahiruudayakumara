@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning React.js
 - 💻 I love coding and building new things
-- 📫 How to reach me: lahiru6616@gmail.com.com
+- 📫 How to reach me: lahiru6616@gmail.com
 - 😄 Pronouns: he/him
 
 ## Skills
