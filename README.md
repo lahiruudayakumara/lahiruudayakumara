@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lahiru Udayakumara</h1>
 
-## About me
 
-- 🌱 I’m currently learning React.js
-- 💻 I love coding and building new things
-- 📫 How to reach me: lahiru6616@gmail.com
-- 😄 Pronouns: he/him
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it22889324&show_icons=true&locale=en&layout=compact" alt="it22889324" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=it22889324&show_icons=true&locale=en" alt="it22889324" /></p>
 
-## Skills
 
-- JavaScript
-- Node.js
-- HTML/CSS
-- C/C++
-- SQL
-- PHP
