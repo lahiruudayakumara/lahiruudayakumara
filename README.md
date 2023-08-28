@@ -1,15 +1,16 @@
 <div align="center">
 <img src="" align="center" style="width: 100%" />
 </div>  
+
+<h1 align="center">Hi 👋, I'm Lahiru Udayakumara</h1>
+
+### <div align="center">I'm a full-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+- 🔭 I’m currently working on Fiverr/Upwork
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning ...
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
@@ -24,7 +25,7 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
 
-<div align="center">  
+<div align="left">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -57,12 +58,6 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-  
 
 <br/>  
 
