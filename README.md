@@ -25,7 +25,7 @@
 - 🔭 I’m currently working on Fiverr/Upwork
   
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently Software Engineering Undergraduate
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
