@@ -5,7 +5,10 @@
 ###
 
 <div align="center">
-  <h1 align="center">Hi 👋, I'm Lahiru Udayakumara<br/><br/>
+  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm Lahiru Udayakumara
+  </h1>
+    <span align="center" style="font-size: 8px;">full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</span> 
+    <br/>
   <div align="center"
     <a href="https://www.facebook.com/https://www.facebook.com/lahiruudaya.kumara.5/" target="_blank">
   <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
@@ -19,13 +22,9 @@
   </div>
 
 </div>
-
-
-<span align="center">I'm a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</span> 
   <img height="230" width="230" align="right" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</h1>
 
-###  
+
 
 - 🔭 I’m currently working on Fiverr/Upwork
   
