@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm Lahiru Udayakumara
+  <h1 align="center">Hi 👋, I'm Lahiru Udayakumara
   </h1>
     <span align="center" style="font-size: 8px;">full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</span> 
     <br/>
