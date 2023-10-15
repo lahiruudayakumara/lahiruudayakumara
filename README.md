@@ -74,7 +74,7 @@
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lahiruudayakumara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="250" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=lahiruudayakumara&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  width="250" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=lahiruudayakumara&show_icons=true&count_private=true&hide_border=true" width="250" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lahiruudayakumara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="250" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=lahiruudayakumara&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  width="250" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lahiruudayakumara&show_icons=true&count_private=true&hide_border=true" width="250" />
 </div>  
