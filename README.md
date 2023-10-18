@@ -2,29 +2,13 @@
   <img src="https://github.com/lahiruudayakumara/lahiruudayakumara/blob/400ad30fe2a16946a5728c416503dbe99cdb1353/name.svg" alt="Marton Lederer" />
 </h1>
 
-###
+### Hi 👋, I'm Lahiru Udayakumara
+[![GitHub lahiruudayakumara](https://img.shields.io/github/followers/lahiruudayakumara?label=follow&style=social)](https://github.com/lahiruudayakumara)
+[![Twitter: iamLahiru](https://img.shields.io/twitter/follow/iamLahiru?style=social)](https://twitter.com/https://twitter.com/Lahiru__u_k)
+[![LinkedIn: lahiru-udayakumara](https://img.shields.io/badge/-LahiruUdayakumara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lahiru-udayakumara-716a4b235/)](https://www.linkedin.com/in/lahiru-udayakumara-716a4b235/)
+[![Facebook](https://img.shields.io/badge/Facebook-222222?&color=blue&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/lahiruudaya.kumara.5/)](https://www.facebook.com/lahiruudaya.kumara.5/)
 
-<div align="center">
-  <h1 align="center">Hi 👋, I'm Lahiru Udayakumara
-  </h1>
-    <span align="center" style="font-size: 8px;">full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</span> 
-    <br/>
-  <div align="center"
-    <a href="https://www.facebook.com/https://www.facebook.com/lahiruudaya.kumara.5/" target="_blank">
-  <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/lahiru-udayakumara-716a4b235/" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/https://twitter.com/Lahiru__u_k" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>  
-  </div>
-
-</div>
-  <img height="230" width="230" align="right" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-
-
+---
 
 - 🔭 I’m currently working on Fiverr/Upwork
   
@@ -33,9 +17,9 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 - ⚡ Fun fact: I use tabs over spaces
+---
 
-
-## My Skill Set  
+### My Skill Set  
 <table><tr><td valign="top" width="100%">
 
 <div align="left">  
@@ -70,11 +54,14 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="30" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table> 
 
-## Github Stats  
+
+### Github Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lahiruudayakumara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="250" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=lahiruudayakumara&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  width="250" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=lahiruudayakumara&show_icons=true&count_private=true&hide_border=true" width="250" />
 </div>  
+
+
