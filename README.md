@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://github.com/lahiruudayakumara/lahiruudayakumara/blob/400ad30fe2a16946a5728c416503dbe99cdb1353/name.svg" alt="Marton Lederer" />
-</h1>
-
 ### Hi 👋, I'm Lahiru Udayakumara
 [![GitHub lahiruudayakumara](https://img.shields.io/github/followers/lahiruudayakumara?label=follow&style=social)](https://github.com/lahiruudayakumara)
 [![Twitter: LahiruUk](https://img.shields.io/twitter/follow/LahiruUk?style=social)](https://twitter.com/LahiruUk)
@@ -12,13 +8,11 @@
 
 ---
 
-- 🔭 I’m currently working on Fiverr/Upwork
-  
-- 🌱 I’m currently Software Engineering Undergraduate
-  
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-- ⚡ Fun fact: I use tabs over spaces
+⚡ I'm currently an undergraduate student <br/>
+⚡ Full-Stack Developer <br/>
+⚡ Freelancer <br/>
+
+
 ---
 
 ### My Skill Set  
@@ -53,18 +47,31 @@
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="30" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="30" /></a>  
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="30" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="30" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="30" /></a>
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/139426?s=48&v=4" alt="angular" height="30" /></a>
+<a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" alt="spring" height="30" /></a> 
+<a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://reactnative.dev/img/header_logo.svg" alt="spring" height="30" /></a> 
 </div>
 
 </td></tr></table> 
 
+---
 
-### Github Stats  
+<!--
+### Github Stats   
+-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lahiruudayakumara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="250" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=lahiruudayakumara&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  width="250" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=lahiruudayakumara&show_icons=true&count_private=true&hide_border=true" width="250" />
-  <img src="https://github-profile-trophy.vercel.app/?username=lahiruudayakumara" alt="lahiruudayakumaraa" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lahiruudayakumara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="195" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=lahiruudayakumara&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  width="250" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lahiruudayakumara&show_icons=true&count_private=true&hide_border=true" width="240" height="150" />
 </div>  
+
+---
+
+<div align="center">
+  <img width="700" src="https://github-profile-trophy.vercel.app/?username=lahiruudayakumara" alt="lahiruudayakumaraa" />
+</div>
+
+---
 
 
