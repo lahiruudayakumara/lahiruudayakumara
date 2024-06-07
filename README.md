@@ -1,17 +1,22 @@
-### Hi 👋, I'm Lahiru Udayakumara
+## Hi 👋, I'm Lahiru Udayakumara
+
 [![GitHub lahiruudayakumara](https://img.shields.io/github/followers/lahiruudayakumara?label=follow&style=social)](https://github.com/lahiruudayakumara)
 [![Twitter: LahiruUk](https://img.shields.io/twitter/follow/LahiruUk?style=social)](https://twitter.com/LahiruUk)
 [![LinkedIn: lahiru-udayakumara](https://img.shields.io/badge/-LahiruUdayakumara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lahiru-udayakumara-716a4b235/)](https://www.linkedin.com/in/lahiru-udayakumara-716a4b235/)
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&color=blue&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/lahiruudaya.kumara.5/)](https://www.facebook.com/lahiruudaya.kumara.5/)
-[![Website](https://img.shields.io/badge/WebSite-222222?&color=blue&style=flat-square&logo=google-chrome&logoColor=white&link=https://#)](https://#)
+[![Website](https://img.shields.io/badge/WebSite-222222?&color=blue&style=flat-square&logo=google-chrome&logoColor=white&link=https://lahiruudayakumara.me)](https://#)
 <img src="https://komarev.com/ghpvc/?username=lahiruudayakumara&label=Profile%20views&color=blue&style=flat-square" alt="lahiruudayakumara" />
 
 ---
-
-⚡ I'm currently an undergraduate student <br/>
-⚡ Full-Stack Developer <br/>
-⚡ Freelancer <br/>
-
+💻 I'm an undergraduate student passionate about technology and software development.</br>
+💬 Ask me about Javascript, Java.</br>
+📫 How to reach me lahiruudayakumara950@gmail.com</br></br>
+📚 Currently working on:
+<ul>
+  <li>🍃 Learn Docker and Kubernetes.</li>
+  <li>🧑‍💻 Freelance Developer & 3D Artist.</li>
+  <li>👯 I’m looking to collaborate on open-source projects.</li>
+</ul>
 
 ---
 
@@ -51,6 +56,7 @@
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/139426?s=48&v=4" alt="angular" height="30" /></a>
 <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" alt="spring" height="30" /></a> 
 <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://reactnative.dev/img/header_logo.svg" alt="spring" height="30" /></a> 
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="30" /></a>  
 </div>
 
 </td></tr></table> 
