@@ -10,7 +10,7 @@
 ---
 💻 I'm an undergraduate student passionate about technology and software development.</br>
 💬 Ask me about Javascript, Java.</br>
-📫 How to reach me lahiruudayakumara950@gmail.com</br></br>
+📫 How to reach me info.lahiruudayakumara@gmail.com</br></br>
 📚 Currently working on:
 <ul>
   <li>🍃 Learn Docker and Kubernetes.</li>
