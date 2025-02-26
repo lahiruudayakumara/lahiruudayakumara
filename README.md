@@ -11,7 +11,7 @@
 ---
 💻 I'm an undergraduate student passionate about technology and software development.</br>
 💬 Ask me about Javascript, Java.</br>
-📫 How to reach me info.lahiruudayakumara@gmail.com</br>
+📫 How to reach me lahiruudayakumara.info@gmail.com</br>
 📝 I publish articles on [https://medium.com/@lahiruudayakumara](https://medium.com/@lahiruudayakumara)</br></br>
 📚 Currently working on:
 <ul>
