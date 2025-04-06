@@ -15,8 +15,6 @@
 📫 How to reach me lahiruudayakumara.info@gmail.com</br>
 📝 I publish articles on [https://medium.com/@lahiruudayakumara](https://medium.com/@lahiruudayakumara)</br>
 📦 Check out my npm package: [https://www.npmjs.com/~lahiruudayakumara](https://www.npmjs.com/~lahiruudayakumara)</br></br>
-
-
 📚 Currently working on:
 <ul>
   <li>🍃 Learn Docker and Kubernetes.</li>
