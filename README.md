@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&color=blue&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/lahiruudaya.kumara.5/)](https://www.facebook.com/lahiruudaya.kumara.5/)
 [![Medium](https://img.shields.io/badge/Medium-000000?&color=purple&style=flat-square&logo=medium&logoColor=white)](https://medium.com/@lahiruudayakumara) 
 [![npm](https://img.shields.io/badge/npm-%40lahiruudayakumara-%23CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~lahiruudayakumara) 
-[![Website](https://img.shields.io/badge/WebSite-222222?&color=red&style=flat-square&logo=google-chrome&logoColor=white&link=https://lahiruudayakumara.me)](https://lahiruudayakumara.me)
+[![Website](https://img.shields.io/badge/WebSite-222222?&color=red&style=flat-square&logo=google-chrome&logoColor=white&link=https://lahiruudayakumara.me)](https://lahiruudayakumara.com)
 <img src="https://komarev.com/ghpvc/?username=lahiruudayakumara&label=Profile%20views&color=blue&style=flat-square" alt="lahiruudayakumara" />
 
 ---
