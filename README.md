@@ -12,7 +12,7 @@
 ---
 💻 I'm an undergraduate student passionate about technology and software development.</br>
 💬 Ask me about Javascript, Java.</br>
-📫 How to reach me lahiruudayakumara.info@gmail.com</br>
+📫 How to reach me udayakumara.wdl@gmail.com</br>
 📝 I publish articles on [https://medium.com/@lahiruudayakumara](https://medium.com/@lahiruudayakumara)</br>
 📦 Check out my npm package: [https://www.npmjs.com/~lahiruudayakumara](https://www.npmjs.com/~lahiruudayakumara)</br></br>
 📚 Currently working on:
@@ -60,7 +60,8 @@
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/139426?s=48&v=4" alt="angular" height="30" /></a>
 <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" alt="spring" height="30" /></a> 
 <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://reactnative.dev/img/header_logo.svg" alt="spring" height="30" /></a> 
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="30" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="30" /></a>
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="golang" height="30" /></a>
 </div>
 
 </td></tr></table> 
